@@ -30,10 +30,10 @@ To get a local copy up and running follow these simple steps.
 ### Setup
 
 - With git, clone the code to your machine, or download a ZIP of all the files directly.
-- [Download the ZIP file from this location](https://github.com/shaqdeff/Nyeusi-Fest-Site/archive/refs/heads/main.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
+- [Download the ZIP file from this location](https://github.com/rapidbenjamin/Nyeusi-Fest-Site/archive/refs/heads/main.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
 
 ```
-git clone https://github.com/shaqdeff/Nyeusi-Fest-Site.git
+git clone https://github.com/rapidbenjamin/Nyeusi-Fest-Site.git
 ```
 
 - Once the files are on your machine, open the **Nyeusi-Fest-Site** folder in [Visual Studio Code](https://code.visualstudio.com/download).
@@ -45,14 +45,6 @@ git clone https://github.com/shaqdeff/Nyeusi-Fest-Site.git
 ## Deployment
 
 - After opening the files in Visual Studio Code, press the **Go Live** button on the status bar (bottom of the window) to launch the files with Live Server.
-
-## Authors
-
-👤 **Shaquille Ndunda**
-
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
-- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
 
 ## 🤝 Contributing
 
